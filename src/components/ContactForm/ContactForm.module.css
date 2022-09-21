@@ -19,5 +19,5 @@
 .btn:focus,
 .btn:hover {
   cursor: pointer;
-  background-color: aqua;
+  background-color: red;
 }
